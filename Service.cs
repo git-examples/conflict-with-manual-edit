@@ -1,4 +1,4 @@
 User GetUser()
 {
-    return new User();
+    return new User(AdultAge);
 }
