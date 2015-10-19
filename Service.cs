@@ -1,4 +1,4 @@
-User GetUser()
+DatabaseUser GetUser()
 {
-    return new User();
+    return new DatabaseUser();
 }
